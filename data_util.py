@@ -29,7 +29,7 @@ def plot(df, company):
     plt.grid(True)
     plt.show()
 
-# %%
-apple_stocks=stock_data('AAPL', 4,'Apple')
-plot(apple_stocks,'Apple')
+# # %%
+# apple_stocks=stock_data('AAPL', 4,'Apple')
+# plot(apple_stocks,'Apple')
 
