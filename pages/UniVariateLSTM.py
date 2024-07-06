@@ -170,7 +170,7 @@ plt.plot(
     label='Predicted Price'
 )
 
-plt.title('Close Prices Prediction using ARIMA', fontsize=16)
+plt.title('Close Prices Prediction using UniVariate LSTM', fontsize=16)
 plt.xlabel('Date', fontsize=14)
 plt.ylabel('Close Price', fontsize=14)
 
