@@ -117,14 +117,6 @@ AutoRegressive Integrated Moving Average model:
 - Modeled time series patterns with AR, MA, and differencing.
 - Widely used for forecasting in economics and finance.
 
-## V. Results
-
-### A. Support Vector Classifiers (SVC)
-
-- Model Score (R-squared): Reflects the variance explained by the model.
-
-[Insert detailed results and performance metrics here.]
-
 ## Conclusion
 
 In conclusion, our project showcases the power of machine learning in predicting stock prices. By leveraging diverse models and comprehensive datasets, we aim to provide valuable insights for investors in navigating the dynamic stock market landscape.
